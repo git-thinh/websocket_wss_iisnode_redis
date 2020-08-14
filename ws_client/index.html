@@ -1,0 +1,24 @@
+<h1>WS Client</h1>
+<h3></h3>
+<script type="text/javascript">
+
+    //var url = (location.protocol == 'http:' ? 'ws' : 'wss') + '://' + location.host + '/pg/v2.0/ws/notify-ticket';
+    //var url = (location.protocol == 'http:' ? 'ws' : 'wss') + '://' + location.host + '/wstest/123';
+    //var url = 'ws://' + location.host + '/RemoteViz/RenderAreaName';
+    var url = 'ws://localhost:8082/ws/test';
+    document.querySelector('h3').innerHTML = url;
+
+    // Create WebSocket connection.
+    const socket = new WebSocket(url);
+
+    // Connection opened
+    socket.addEventListener('open', function (event) {
+        socket.send('Hello Server!');
+    });
+
+    // Listen for messages
+    socket.addEventListener('message', function (event) {
+        console.log('Message from server ', event.data);
+    });
+
+</script>

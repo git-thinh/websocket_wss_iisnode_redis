@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>ws://localhost:8080/ws/test</h1>
+    <h1>wss://test.iot.vn:4439/ws/test</h1>
+
+    <script type="text/javascript">
+
+        //var url = (location.protocol == 'http:' ? 'ws' : 'wss') + '://' + location.host + '/pg/v2.0/ws/notify-ticket';
+        //var url = (location.protocol == 'http:' ? 'ws' : 'wss') + '://' + location.host + '/wstest/123';
+        //var url = 'ws://' + location.host + '/RemoteViz/RenderAreaName';
+        var url = (location.protocol == 'http:'? 'ws' : 'wss') + '://' + location.host + '/ws/test';
+        document.write(url);
+
+        // Create WebSocket connection.
+        const socket = new WebSocket(url);
+
+        // Connection opened
+        socket.addEventListener('open', function (event) {
+            socket.send('Hello Server!');
+        });
+
+        socket.addEventListener('error', function (event) {
+            console.log('error =  ', event);
+        });
+
+        // Listen for messages
+        socket.addEventListener('message', function (event) {
+            console.log('Message from server ', event.data);
+        });
+
+    </script>
+
+</body>
+</html>

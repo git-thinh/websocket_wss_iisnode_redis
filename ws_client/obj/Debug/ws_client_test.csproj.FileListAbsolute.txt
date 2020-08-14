@@ -1,0 +1,6 @@
+C:\tfs\LogoPrint\MrThinh\websocket\ws_client\bin\ws_client.dll.config
+C:\tfs\LogoPrint\MrThinh\websocket\ws_client\bin\ws_client.dll
+C:\tfs\LogoPrint\MrThinh\websocket\ws_client\bin\ws_client.pdb
+C:\tfs\LogoPrint\MrThinh\websocket\ws_client\obj\Debug\ws_client_test.csproj.CoreCompileInputs.cache
+C:\tfs\LogoPrint\MrThinh\websocket\ws_client\obj\Debug\ws_client.dll
+C:\tfs\LogoPrint\MrThinh\websocket\ws_client\obj\Debug\ws_client.pdb

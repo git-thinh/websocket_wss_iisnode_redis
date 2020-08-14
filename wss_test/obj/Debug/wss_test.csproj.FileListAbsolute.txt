@@ -1,0 +1,9 @@
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\bin\Debug\wss_test.exe.config
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\bin\Debug\wss_test.exe
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\bin\Debug\wss_test.pdb
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\bin\Debug\Fleck.dll
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\obj\Debug\wss_test.csproj.CoreCompileInputs.cache
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\obj\Debug\wss_test.csproj.CopyComplete
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\obj\Debug\wss_test.exe
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\obj\Debug\wss_test.pdb
+C:\tfs\LogoPrint\MrThinh\websocket\wss_test\obj\Debug\wss_test.csprojAssemblyReference.cache

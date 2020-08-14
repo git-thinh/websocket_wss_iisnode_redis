@@ -1,0 +1,11 @@
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\obj\Debug\ws_admin_test.csproj.CoreCompileInputs.cache
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\bin\wstest.dll.config
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\bin\wstest.dll
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\bin\wstest.pdb
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\bin\Microsoft.WebSockets.dll
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\obj\Debug\ws_admin_test.csproj.CopyComplete
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\obj\Debug\wstest.dll
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\obj\Debug\wstest.pdb
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\obj\Debug\ws_admin_test.csprojAssemblyReference.cache
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\bin\websocket-sharp.dll
+C:\tfs\LogoPrint\MrThinh\websocket\wstest\bin\websocket-sharp.xml
